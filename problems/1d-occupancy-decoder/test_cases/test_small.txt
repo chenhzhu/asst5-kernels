@@ -1,0 +1,2 @@
+batch_size: 1; num_queries: 128; num_latents: 32; width: 768; num_heads: 12; q_in_dim: 3; seed: 42
+
